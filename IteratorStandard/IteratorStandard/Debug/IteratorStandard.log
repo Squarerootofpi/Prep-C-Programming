@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\squar\source\repos\iteratorstandard\iteratorstandard\myarray.h(107): warning C4018: '<': signed/unsigned mismatch
+  c:\users\squar\source\repos\iteratorstandard\iteratorstandard\myarray.h(105): note: while compiling class template member function 'std::string MyArray<size_t>::toString(void) const'
+  c:\users\squar\source\repos\iteratorstandard\iteratorstandard\myarray.h(35): note: see reference to function template instantiation 'std::string MyArray<size_t>::toString(void) const' being compiled
+  c:\users\squar\source\repos\iteratorstandard\iteratorstandard\main.cpp(34): note: see reference to class template instantiation 'MyArray<size_t>' being compiled
+  IteratorStandard.vcxproj -> C:\Users\squar\source\repos\IteratorStandard\Debug\IteratorStandard.exe
