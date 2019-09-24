@@ -1,0 +1,4 @@
+﻿  ExpressionManager.cpp
+c:\users\squar\source\repos\expressions\expressions\expressionmanager.h(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\expressions\expressions\expressionmanager.h(100): warning C4018: '<': signed/unsigned mismatch
+  Expressions.vcxproj -> C:\Users\squar\source\repos\Expressions\Debug\Expressions.exe
