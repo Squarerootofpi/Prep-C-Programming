@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\squar\source\repos\bst\bst\bst.h(169): warning C4715: 'BST<int>::findRecursive': not all control paths return a value
+c:\users\squar\source\repos\bst\bst\bst.h(169): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::findRecursive': not all control paths return a value
+  BST.vcxproj -> C:\Users\squar\source\repos\BST\Debug\BST.exe

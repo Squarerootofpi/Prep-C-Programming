@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\squar\source\repos\avl\avl\avl.h(497): warning C4715: 'AVL<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::removeNode': not all control paths return a value
+c:\users\squar\source\repos\avl\avl\avl.h(497): warning C4715: 'AVL<int>::removeNode': not all control paths return a value
+c:\users\squar\source\repos\avl\avl\avl.h(178): warning C4715: 'AVL<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::findRecursive': not all control paths return a value
+c:\users\squar\source\repos\avl\avl\avl.h(178): warning C4715: 'AVL<int>::findRecursive': not all control paths return a value
+  AVL.vcxproj -> C:\Users\squar\source\repos\AVL\Debug\AVL.exe
