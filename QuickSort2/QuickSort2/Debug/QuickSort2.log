@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\squar\source\repos\quicksort2\quicksort2\qs.h(305): warning C4018: '<': signed/unsigned mismatch
+  c:\users\squar\source\repos\quicksort2\quicksort2\qs.h(298): note: while compiling class template member function 'std::string QS<int>::toString(void) const'
+  c:\users\squar\source\repos\quicksort2\quicksort2\main.cpp(31): note: see reference to class template instantiation 'QS<int>' being compiled
+c:\users\squar\source\repos\quicksort2\quicksort2\qs.h(91): warning C4715: 'QS<int>::sort': not all control paths return a value
+  QuickSort2.vcxproj -> C:\Users\squar\source\repos\QuickSort2\Debug\QuickSort2.exe

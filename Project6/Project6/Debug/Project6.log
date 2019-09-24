@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\squar\source\repos\project6\project6\deque.h(124): warning C4018: '<': signed/unsigned mismatch
+  c:\users\squar\source\repos\project6\project6\deque.h(121): note: while compiling class template member function 'std::string Deque<T>::toString(void) const'
+          with
+          [
+              T=size_t
+          ]
+  c:\users\squar\source\repos\project6\project6\queue.h(8): note: see reference to class template instantiation 'Deque<T>' being compiled
+          with
+          [
+              T=size_t
+          ]
+  c:\users\squar\source\repos\project6\project6\station.h(14): note: see reference to class template instantiation 'Queue<T>' being compiled
+          with
+          [
+              T=size_t
+          ]
+  c:\users\squar\source\repos\project6\project6\main.cpp(33): note: see reference to class template instantiation 'Station<size_t>' being compiled
+c:\users\squar\source\repos\project6\project6\station.h(146): warning C4018: '<': signed/unsigned mismatch
+  c:\users\squar\source\repos\project6\project6\station.h(145): note: while compiling class template member function 'std::string Station<size_t>::find(T)'
+          with
+          [
+              T=size_t
+          ]
+  c:\users\squar\source\repos\project6\project6\main.cpp(102): note: see reference to function template instantiation 'std::string Station<size_t>::find(T)' being compiled
+          with
+          [
+              T=size_t
+          ]
+c:\users\squar\source\repos\project6\project6\station.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\project6\project6\station.h(166): warning C4018: '<': signed/unsigned mismatch
+  Project6.vcxproj -> C:\Users\squar\source\repos\Project6\Debug\Project6.exe

@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\squar\source\repos\snaplab\snaplab\main.cpp(261): warning C4018: '<': signed/unsigned mismatch
+  SNAPLAB.vcxproj -> C:\Users\squar\source\repos\SNAPLAB\Debug\SNAPLAB.exe
