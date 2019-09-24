@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\main.cpp(231): warning C4101: 'oor': unreferenced local variable
+c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\linkedlist.h(226): warning C4018: '>': signed/unsigned mismatch
+  c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\linkedlist.h(223): note: while compiling class template member function 'T &LinkedList<T>::at(size_t)'
+          with
+          [
+              T=int
+          ]
+  c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\main.cpp(217): note: see reference to function template instantiation 'T &LinkedList<T>::at(size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\main.cpp(37): note: see reference to class template instantiation 'LinkedList<int>' being compiled
+c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\linkedlist.h(226): warning C4018: '<=': signed/unsigned mismatch
+c:\users\squar\source\repos\linkedlistlabstandard\linkedlistlabstandard\linkedlist.h(231): warning C4018: '<=': signed/unsigned mismatch
+  LinkedListLabStandard.vcxproj -> C:\Users\squar\source\repos\LinkedListLabStandard\Debug\LinkedListLabStandard.exe

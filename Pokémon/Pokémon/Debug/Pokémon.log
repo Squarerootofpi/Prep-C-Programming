@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\squar\source\repos\pokémon\pokémon\hashmap.h(116): warning C4018: '<': signed/unsigned mismatch
+  c:\users\squar\source\repos\pokémon\pokémon\hashmap.h(104): note: while compiling class template member function 'std::string HashMap<std::string,Set<std::string>>::convertInt(int)'
+  c:\users\squar\source\repos\pokémon\pokémon\hashmap.h(56): note: see reference to function template instantiation 'std::string HashMap<std::string,Set<std::string>>::convertInt(int)' being compiled
+  c:\users\squar\source\repos\pokémon\pokémon\main.cpp(40): note: see reference to class template instantiation 'HashMap<std::string,Set<std::string>>' being compiled
+c:\users\squar\source\repos\pokémon\pokémon\bst.h(170): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::findRecursive': not all control paths return a value
+  Pokémon.vcxproj -> C:\Users\squar\source\repos\Pokémon\Debug\Pokémon.exe
